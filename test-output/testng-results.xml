@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17135" started-at="2018-12-30T17:34:43Z" finished-at="2018-12-30T17:35:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17135" started-at="2018-12-30T17:34:43Z" finished-at="2018-12-30T17:35:00Z">
+      <class name="testng.Class1">
+        <test-method status="PASS" signature="m1()[pri:0, instance:testng.Class1@55f3ddb1]" name="m1" is-config="true" duration-ms="7996" started-at="2018-12-30T23:04:43Z" finished-at="2018-12-30T23:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:testng.Class1@55f3ddb1]" name="TC2" duration-ms="8553" started-at="2018-12-30T23:04:51Z" finished-at="2018-12-30T23:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:testng.Class1@55f3ddb1]" name="m2" is-config="true" duration-ms="527" started-at="2018-12-30T23:05:00Z" finished-at="2018-12-30T23:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- testng.Class1 -->
+      <class name="testng.Class2">
+        <test-method status="PASS" signature="BS()[pri:0, instance:testng.Class2@cc285f4]" name="BS" is-config="true" duration-ms="17" started-at="2018-12-30T23:04:43Z" finished-at="2018-12-30T23:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:testng.Class2@cc285f4]" name="BT" is-config="true" duration-ms="0" started-at="2018-12-30T23:04:43Z" finished-at="2018-12-30T23:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:testng.Class2@cc285f4]" name="TC3" duration-ms="11" started-at="2018-12-30T23:04:43Z" finished-at="2018-12-30T23:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="TC4()[pri:0, instance:testng.Class2@cc285f4]" name="TC4" duration-ms="2" started-at="2018-12-30T23:04:43Z" finished-at="2018-12-30T23:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+      </class> <!-- testng.Class2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
